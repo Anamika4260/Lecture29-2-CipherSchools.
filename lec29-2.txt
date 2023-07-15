@@ -1,0 +1,9 @@
+A linked list is a collection of “nodes” connected together via links. These nodes consist of the data to be stored and a pointer to the address of the next node within the linked list. In the case of arrays, the size is limited to the definition, but in linked lists, there is no defined size. Any amount of data can be stored in it and can be deleted from it.
+
+There are three types of linked lists −
+
+Singly Linked List − The nodes only point to the address of the next node in the list.
+
+Doubly Linked List − The nodes point to the addresses of both previous and next nodes.
+
+Circular Linked List − The last node in the list will point to the first node in the list. It can either be singly linked or doubly linked.
